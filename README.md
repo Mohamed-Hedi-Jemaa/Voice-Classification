@@ -1,7 +1,7 @@
 # Voice-Classification
 
 
-Voice pathology detection is a patient condition diagnostics system based on Machine Learning algorithms. Vanilla version was based on logistic regression and random forest, though when I discovered CNN's and computer vision I thought it would be nice to test a deep learning approach. To conclude the project contains approaches to voice pathology detection problem:
+Voice pathology detection is a patient condition diagnostics system based on Machine Learning algorithms. Vanilla version was based on logistic regression and random forest. This project contains approaches to voice pathology detection problem:
 * Classic machine learning approach, two algorithms logistic regression and random forest with overall accuracy ~70%,
 * Convolutional neural network utilized to classified patients based on extracted spectrograms, overall accuracy ~70%.
 
